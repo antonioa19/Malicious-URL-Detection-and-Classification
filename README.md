@@ -16,3 +16,12 @@ How to Run:
 4. Run each cell individually or run entire notebook
 5. Evaluate Model Performance
 
+Results:
+
+Sequential Neural Network Model Architecture
+
+![My animated logo](NNmodel.PNG)
+
+CNN Neural Network Model Architecture
+
+![My animated logo](CNNmodel.PNG)
