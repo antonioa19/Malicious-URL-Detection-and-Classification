@@ -2,7 +2,7 @@
 
 This project focuses on Malicious URL Detection and Classification.
 
-![My animated logo](datasetbreakdown.png)
+![My animated logo](/relative/datasetbreakdown.png)
 
 Link to dataset: https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset
 
